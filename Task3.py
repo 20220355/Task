@@ -1,2 +1,3 @@
 print("Task3")
-print("Open Source SW Basic")
+print("KIT")
+print("컴퓨터공학과 20220355")
